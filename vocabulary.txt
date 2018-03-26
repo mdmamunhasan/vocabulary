@@ -1,0 +1,1000 @@
+Yell:চিত্কার
+Writhe:পাক দেত্তয়া
+Woe:দুর্ভাগ্য
+Wizard:জাদুকর
+Wisdom:জ্ঞান
+Wings:উইংস
+Windfall:দৈবধন
+Wind:বায়ু
+Widows:বিধবা
+Whirlwind:ঘূর্ণিবায়ু
+Whirlpool:ঘূর্ণাবর্ত
+Whirl:আবর্ত
+Whir:বোঁ আত্তয়াজ
+Whereby:যদ্দ্বারা
+Whatsoever:সবটা
+Wends:পথ চলা
+Welt:চাবকান
+Waste:অপব্যয়
+Wary:সতর্ক
+Wanton:অসচ্চরিত্র
+Wander:চরা
+Walker:ভ্রমণকারী
+Vulture:শকুনি
+Voracious:খাইয়ে
+Voodooism:ডাকিনীতন্ত্র
+Voodoo:দুর্ভাগ্যদায়ক ব্যক্তি
+Voluntary:স্বেচ্ছাকৃত
+Voluminous:বৃহদায়তন
+Volcanoes:আগ্নেয়গিরি
+Void:অকার্যকর
+Vogue:চলন
+Vivisection:জীবচ্ছেদ
+Vivified:জীবনসঁচার করা
+Vives:ভিভেস
+Visceral:আন্তরয়ন্ত্রীয়
+Visage:মুখ
+Virtuoso:শিল্পাদিকৌশলে দক্ষ
+Virtue:পুণ্য
+Vintner:শুঁড়ি
+Vintage:মদ
+Vineyards:আংগুর ক্ষেত
+Vineyard:দ্রাক্ষাক্ষেত্র
+Vinci:ভিঞ্চি
+Vignette:চিত্র
+Vicarious:প্রতিনিধি কাজ করে এমন
+Vestige:কণা
+Vested:কায়েমী
+Vernacular:স্বদেশীয়
+Verbatim:আক্ষরিকভাবে
+Venerate:শ্রদ্ধা করা
+Veneer:পাতলা তক্তার আবরণ
+Vendetta:গৃহবিবাদ
+Vaudeville:বিচিত্রানুষ্ঠান
+Vast:সুবিশাল
+Variegated:নানাবর্ণ
+Vapid:স্বাদহীন
+Vantage:সুবিধাজনক অবস্থান
+Vanquish:পটকান
+Vanity:অসারত্ব
+Valorous:বীর্যবান
+Valley:উপত্যকা
+Valedictory:বিদায়কালিক
+Vagrant:ভবঘুরে
+Vagabond:ভবঘুরে
+Utility:উপযোগ
+Urges:কমিটি
+Urge:তাড়ন
+Urban:শহুরে
+Upmarket:অভিজাত
+Unwind:পোক খোলা
+Unwieldy:জবরজং
+Untangle:জটিলতামুক্ত
+Unsolicited:অযাচিত
+Unprecedented:অভূতপূর্ব
+Unpolluted:অকলঙ্কিত
+Unilateral:একতরফা
+Unforeseen:অভাবিত
+Unfaltering:অবিচলিত
+Underlying:নিম্নাবস্থিত
+Ulterior:ভবিষ্য
+Twists:মুচড়ে
+Twigs:কাঠি
+Turnover:মুড়ি
+Turf:ঘোড়দৌড়ের মাঠ
+Tureen:ঢাকনাত্তয়ালা বড় থালা
+Turbulence:অবাধ্যতা
+Truant:যে ব্যক্তি কর্মস্থল হইতে পালায়
+Tropical:গ্রীষ্মপ্রধান
+Troops:সেনা
+Trivial:নগণ্য
+Trivia:তুচ্ছ বস্তু
+Trivalency:বিসমাথের
+Trepidation:কম্পন
+Treasury:কোষাগার
+Treasures:কোষাগার
+Treasure:ধন
+Treadmill:পাদচালিত কল
+Transcripts:প্রতিলিখন
+Tranquil:শান্ত
+Tracts:ট্র্যাক্ট
+Traction:আকর্ষণ
+Torrential:মূষলধার
+Topographical:গ্রীষ্মমণ্ডলীয়
+Tonsure:কেশকর্তন
+Tipple:সুরাপান করা
+Timid:ভীতু
+Timbers:কাঠ
+Timber:কাঠ
+Tidal:জোয়ার
+Thrives:ওঠা
+Thrive:উন্নতিলাভ করা
+Thrilling:রোমাঁচকর
+Thirst:তৃষ্ণা
+Thespian:নাটকের অভিনেতা
+Thesauri:কোষাগার
+Terraced:পাকা
+Terrace:চত্বর
+Tenure:ভোগদখল
+Temporal:সময়গত
+Temperate:নাতিশীতোষ্ণ
+Tedious:ক্লান্তিকর
+Tearful:অশ্রুপূর্ণ
+Teak:সেগুন কাঠ
+Taxonomy:শ্রেণীবিন্যাস
+Taxonomic:ট্যাকসোনমিক
+Tardiness:বিলম্বন
+Tabulating:সারণি-
+Tabloid:তক্তি
+Synthesis:সংশ্লেষণ
+Symbiotic:মিথোজীবী
+Symbiosis:অন্যোন্যজীবিত্ব
+Sybil:সিবিল
+Swelling:ফোলা
+Swell:চিতান
+Sweat:ঘাম
+Swallow:গেলা
+Suspicion:সন্দেহ
+Susceptible:সমর্থ
+Surpassed:অতিক্রান্ত
+Surging:উথাল
+Surfing:সার্ফিং
+Supposition:অনুমান
+Supposedly:কল্পনানুসারে
+Supplement:ক্রোড়পত্র
+Supper:নৈশভোজ
+Superficially:ভাসা-ভাসাভাবে
+Suntanning:সূর্য ট্যানিং
+Sultry:গুমোট
+Suffocation:দম বন্ধ হয়ে
+Suffices:আল্লাহই যথেষ্ট
+Succored:দুর্দশাদিতে সাহায্য করা
+Suburbs:শহরতলির
+Substantive:বাস্তব
+Substance:পদার্থ
+Subsistence:জীবিকা
+Subsidiary:সহায়ক
+Subjugate:ক্রীতদাস করা
+Stymied:কোণঠাসা
+Stubborn:একগুঁয়ে
+Strive:সংগ্রাম করা
+Stretch Across:জুড়ে প্রসারিত
+Stretch:প্রসারণ
+Strenuous:শ্রমসাধ্য
+Streams:স্ট্রিম
+Strategically:কৌশলগতভাবে
+Strategetical:অনুমোদনপ্রাপ্ত ব্যক্তি
+Stimulate:চেতান
+Stimulant:উদ্দীপক
+Steroid:স্টেরয়েড
+Stemmed:সকাণ্ড
+Stealth:চৌর্য
+Starvation:অনাহার
+Staking:পত্র
+Squash:স্কোয়াশ
+Squander:ফুঁকা
+Sprightly:চট্পটে
+Sprawling:টানাটানি করা
+Spotlight:স্পটলাইট
+Sponsors:স্পনসর
+Splashes:জলের ছিটা
+Spirit:আত্মা
+Spills:স্পিলস
+Speech:বক্তৃতা
+Speculate:ফটকা খেলা
+Spectacular:দর্শনীয়
+Spectacle:প্রদর্শনী
+Species:প্রজাতি
+Spatial:স্থান-সংক্রান্ত
+Spark:স্ফুলিঙ্গ
+Sought:চাওয়া
+Sophisticated:বাস্তববুদ্ধিসম্পন্ন
+Soothing:শীতল
+Solicited:উপরূদ্ধ
+Solicitation:অনুনয়
+Softly:ধীরে ধীরে
+Soar:উড্ডীন করা
+Soap Opera:রেডিত্ততে ধারাবাহিক নাটক
+Soap:সাবান
+Soaking:ভেজানোর
+Soak:শোষণ
+Snorkelling:আনন্দদায়ক
+Snorkeling:স্নরকেলিং
+Smears:মলা
+Slopes:ঢালে
+Sloan:স্লোয়ান
+Sleuth:পদচিহ্নাঙ্কিত অনুসরণপথ
+Slaying:হনন
+Skulk:কাজ এড়ান
+Ski:স্কী
+Skeptical:সন্দেহপ্রবণ
+Sitcoms:টিভি
+Simulate:নকল করা
+Sift:টালা
+Shore:কূল
+Shallow:অগভীর
+Sewage:ড্রেনের ময়লা
+Sew:সেলাই করা
+Self-portrait:আত্মপ্রতিকৃতি
+Seismology:ভূকম্পবিদ্যা
+Seduces:প্রতারিত
+Seduce:পটান
+Sedentary:আসীন
+Sculptures:ভাস্কর্য
+Sculptor:ভাস্কর
+Scuba:স্কুবা
+Scorching:দাহক
+Scatter:ছিটান
+Scary:ভীতিকর
+Scared:কাঁচুমাচু
+Scant:অপ্রচুর
+Scandalous:মানহানিকর
+Savoring:স্বাদে
+Savoir Vivre:শিষ্টাচার
+Savior:ত্রাণকর্তা
+Saunas:স্টিম বাথ
+Sartorial:পোশাক-সংক্রান্ত
+Sandcastle:সমুদ্রতীরে শিশুদের বানানো বালির ঘর
+Sanctions:নিষেধাজ্ঞা
+Sake:অভিপ্রায়
+Sacrilegious:পবিত্র ব্যক্তির অসম্মানকারী
+Sac:কোষ
+Rocky:শিলাময়
+Rock:শিলা
+Robbed:লুট
+Ritual:অনুষ্ঠান
+Rigorous:কঠোর
+Rigid:অনমনীয়
+Ridiculous:হাস্যকর
+Rhymes:ছড়া
+Rhyme:মিত্রাক্ষর কবিতা
+Rhinos:গণ্ডার
+Rhetorical:অলঙ্কৃত
+Revenge:প্রতিশোধ
+Reveals:প্রকাশিত
+Resilient:স্থিতিস্থাপক
+Resemble:সদৃশ
+Reptiles:সরীসৃপ
+Reproductive:জন্মদায়ক
+Repercussion:প্রতিক্রিয়া
+Repelling:বিরক্তিকর
+Repatriate:প্রত্যাবাসন করান
+Renovation:নবীকরণ
+Remuneration:পারিশ্রমিক
+Remembrance:স্মরণ
+Remedy:প্রতিকার
+Reluctant:অনিচ্ছুক
+Relished:রসাস্বাদন
+Relieved:অব্যাহতিপ্রাপ্ত
+Relics:ধ্বংসাবশেষ
+Relaying:রিলে
+Reimbursed:শিশুবের
+Refute:খণ্ডন করা
+Refrain:ধ্রুবা
+Referendum:গণভোট
+Reef:প্রবালপ্রাচীর
+Reed:খাগড়া
+Redundant:অপ্রয়োজনীয়
+Reclaim:সংশোধন
+Reckon:শ্রেণীভুক্ত করা
+Recipes:রেসিপি
+Recipe:প্রণালী
+Recession:মন্দা
+Realm:রাজত্ব
+Readership:বিশ্ববিদ্যালয়ের অধ্যাপকের গদ
+Rapt:আবিষ্ট
+Ramp:তর্জন-গর্জন
+Ramble:ঘুরাঘুরি করা
+Raked:মই দিয়া আহরণ করা
+Rainforest:রেনফরেস্ট
+Raging:আবেগে কিছু করা
+Rage:ক্রোধ
+Ragamuffin:ইতর লোক
+Radical:ভিত্তিগত
+Racism:স্বাজাতিকতা
+Quo:স্থিতাবস্থা
+Quench:নেভান
+Quantified:সংখ্যায়
+Qualify:যোগ্যতা
+Pursuits:বিষয়গুলোর
+Pursue:অন্বেষণ করা
+Purgatory:প্রায়শ্চিত্তমূলক
+Punting:পুন্টিং
+Punt:লগি ঠেলা
+Pumpkin Pine:কুমড়া পাইন
+Pumpkin:কুমড়া
+Psychology:মনোবিজ্ঞান
+Psychiatry:মনোরোগবিদ্যা
+Psyche:আত্মা
+Pseudo:ছদ্ম
+Prurient:কামুক
+Prudent:বিচক্ষণ
+Prowess:পুরুষকার
+Provoke:ঘটান
+Prospectus:প্রসপেক্টাস
+Prospect:প্রত্যাশা
+Proprietary:মালিকানা
+Prophetic:ভবিষ্যদ্বাণীপূর্ণ
+Propeller:চালক
+Prop:ঠেকনা
+Promiscuous:এলোমেলো
+Proletarians:সর্বহারারা
+Projection:অভিক্ষেপ
+Programmes:প্রোগ্রাম
+Programme:কার্যক্রম
+Prognosticate:ভবিষ্যদ্বাণী করা
+Prognosis:পূর্বাভাস
+Profound:গভীর
+Procrastination:ঢিমেতেতালা
+Procrastinating:গড়িমসি করা
+Proclivity:স্বাভাবিক প্রবণতা
+Proceeds:আয়
+Proceed:এগিয়ে
+Procedural:পদ্ধতিগত
+Priori:অবরোহী
+Priest:পুরোহিত
+Pride:গর্ব
+Pretend:সাজা
+Presumable:ধারণা করা
+Prestige:প্রতিপত্তি
+Preseverance:অধ্যবসায়
+Prescience:পূর্বজ্ঞান
+Prejudice:কুসংস্কার
+Preen:পরিপাটি করা
+Preclude:প্রতিরোধ করা
+Precision:স্পষ্টতা
+Precisely:অবিকল
+Pragmatically:যৌক্তিকভাবে
+Practitioners:অনুশীলনকারীদের
+Potential:সম্ভাব্য
+Potable:পানযোগ্য
+Possessions:স্ব
+Possession:দখল
+Possess:ভোগদখল করা
+Portraits:পোর্ট্রেট
+Portend:ভবিষ্যদ্বাণী করা
+Porch:বারান্দা
+Pogrom:সাম্প্রদায়িক সহিংসতা
+Podcasts:পডকাস্ট
+Pocket:পকেট
+Poaching:চোরাশিকার
+Plump:দ্বিধাহীনভাবে
+Playwright:নাট্যকার
+Playfully:খেলাচ্ছলে
+Playful:কৌতুকপূর্ণ
+Plausible:বিশ্বাসযোগ্য
+Plaque:ফলক
+Pity:কৃপা
+Pique:বিরূপতা
+Pillory:কাষ্ঠানির্মিত শাস্তিস্তম্ভবিশেষ
+Piles:গাদা
+Philanthropists:দাতাদের
+Phenomenon:প্রপঁচ
+Pervasive:পরিব্যাপক
+Pertain:অধিকারে থাকা
+Persuasive:প্রবর্তক
+Persuade:পটান
+Permanence:স্থায়িত্ব
+Perks:বিভিন্ন প্রণোদনা
+Periphery:পরিধি
+Peregrination:পর্যটন
+Perception:উপলব্ধি
+Perceive:বোঝা
+Pensive:ধ্যানমগ্ন
+Peninsula Pine:উপদ্বীপ পাইন
+Peninsula:উপদ্বীপ
+Penetrate:পশা
+Pedometers:পাদক্ষেপগণনাযন্ত্র
+Pedagogy:শিক্ষাবিজ্ঞান
+Pavement:ফুটপাথ
+Pave:আস্তৃত করা
+Pauper:কাঙ্গাল
+Patent:পেটেণ্ট
+Passport:পাসপোর্ট
+Particularly:বিশেষত
+Parlance:কথন
+Paradigm:দৃষ্টান্ত
+Paperbacks:পেপারব্যাক
+Paperback:মলাটত্তয়ালা বই
+Pact:চুক্তি
+Pace:গতি
+Owe:ঋণগ্রস্ত থাকা
+Overwhelm:অভিভূত করা
+Overconsumption:স্লোগানও
+Outweighed:গুরুত্বে অতিক্রম করা
+Outskirt:সীমান্ত-অঙ্চল
+Outreach:প্রচার
+Outgrow:বৃদ্ধিতে অতিক্রম করা
+Ousted:বেদখল
+Ostensibly:বাহ্যত
+Organism:জীব
+Orchestra:অর্কেস্ট্রা
+Opportunistic:সুবিধাবাদী
+Operatic:অপের্রাসঙক্রান্ত
+Opaque:অস্বচ্ছ
+Ontology:তত্ত্ববিদ্যা
+Onslaught:আক্রমণ
+Online:অনলাইন
+Onerous:গুরুভার
+Oncology:অনকোলজি
+Omni:সর্বভাবে
+Omission:ভ্রান্তি
+Odyssey:ওডিসি
+Obsessed:অন্ধকারাচ্ছন্ন
+Obesity:স্থূলতা
+Nuts:বাদাম
+Nuisance:উপদ্রব
+Notions:ধারণার
+Nonfiction:লুৎফর
+Nonetheless:তবু
+Nodded:নড়া
+Nobbled:অসদুপায়ে অর্থ হস্তগত করা
+Niche:কুলুঙ্গি
+Newswire:নিউজওয়্যার
+Natty:চট্পটে
+Naive:সাদাসিধা
+Myriad:অগণ্য
+Mutant:মিউট্যান্ট
+Multiplex:বহুবিধ
+Multifaceted:বহুমুখী
+Mule:খচ্চর
+Mow:কাটা
+Mountain Range:পর্বতমালা
+Monuments:মিনার
+Monetary:আর্থিক
+Momentarily:মুহূর্তমধ্যে
+Mock:উপহাস
+Mistreated:দুর্ব্যবহার
+Miserly:কিপটা
+Mischievous:দুষ্ট
+Miscellaneous:বিবিধ
+Minted:নূতন
+Mint:পুদিনা
+Military:সামরিক
+Militant:যুদ্ধরত
+Milieu:পারিপার্শ্বিক অবস্থা
+Might:হতে পারে
+Meteorology:আবহবিদ্যা
+Messy:নোংরা
+Mess:জগাখিচুড়ি
+Mere:নিছক
+Merchantability:ব্যবসাযোগ্যতা
+Mend:সারান
+Memes:মেমে
+Meander:বহুবক্রতা
+Mawkish:ঘৃণাজনক
+Martial:সামরিক
+Mansion:সুবৃহৎ অট্টালিকা
+Mandated:বাধ্যতামূলক
+Malignant:ক্রূর
+Malcontent:অসন্তুষ্ট
+Make Up:মিটমাট করা
+Luxuriant:প্রাচুর্যপূর্ণ
+Lush:মদ্যপ
+Lucre:ধনদৌলত
+Lucrative:লাভজনক
+Loyalty:আনুগত্য
+Lousy:পরিপূর্ণ
+Lounge:লাউঞ্জে
+Logistics:সরবরাহ
+Logging:লগিং
+Livelihood:জীবিকা
+Litany:প্রার্থনা-সঙ্গীত
+Libido:কামশক্তি
+Liaise:যোগাযোগ করা
+Liability:দায়
+Lexical:আভিধানিক
+Lesion:ক্ষত
+Leopard:চিতা
+Lenient:কোমল
+Lend:ধার
+Legitimate:বৈধ
+Legislation:আইন
+Leech:জোঁক
+Led:এলইডি
+Leaf:পাতা
+Leach:লিচ
+Lawn:বনভূমি
+Laterite:ল্যাটেরাইট
+Laryngitis:গলদাহ
+Lap:ভাঁজ
+Langour:ক্লান্তি
+Landscape:ভূদৃশ্য
+Lamenting:বিলপমান
+Ladder:মই
+Kurdish:কুর্দি
+Knot:গিঁট
+Killjoy:মূর্তিমান নিরানন্দ
+Jutting:অভিক্ষিপ্ত হত্তয়া
+Jurisdiction:অধিক্ষেত্র
+Jeopardy:বিপদ্
+Jaunt:প্রমোদ-ভ্রমণ
+Iterative:পুনরাবৃত্ত
+Issuance:ইস্যুকরণ
+Isle:দ্বীপ
+Irresolute:অস্থিরসঙ্কল্প
+Invocation:আবাহন
+Invasion:আক্রমণ
+Intuition:স্বজ্ঞা
+Intruding:অনধিকারপ্রবেশকারী
+Introvert:অন্তর্মূখী
+Intrinsic:স্বকীয়
+Intricate:জটিল
+Intimately:গলাগলি
+Intimate:অন্তরঙ্গ
+Intervention:হস্তক্ষেপ
+Interrogator:জিজ্ঞাসাবাদের সময়
+Interpretation:ব্যাখ্যা
+Interoperable:আন্ত
+Interoperability:আন্তক্রিয়া
+Intermittently:থেমে থেমে
+Intermediary:মধ্যবর্তী
+Interleave:বইয়ের পাতার মাঝে মাঝে
+Interior:অভ্যন্তর
+Interdisciplinary:আন্তঃবিষয়ক
+Intercept:পথিমধ্যে রোধ করা
+Intended:অভিপ্রেত
+Intake:ঘেরা জমি
+Institutional:প্রাতিষ্ঠানিক
+Instance:উদাহরণ
+Insomnia:অনিদ্রা
+Insights:অর্ন্তদৃষ্টি
+Insensible:অচেতন
+Inquisitive:জিজ্ঞাসু
+Innocuous:ক্ষতি করে না এমন
+Inherent:সহজাত
+Ingratiate:অনুগ্রহ ভাজন করান
+Ingest:পাকস্থলীতে গ্রহণ করা
+Infused:চারিত
+Infuse:প্রবিষ্ট করান
+Infringement:লঙ্ঘন
+Info:তথ্য
+Inferred:অনুমিত
+Inferior:নিকৃষ্ট
+Inference:অনুমিতি
+Infants:শিশু
+Inevitable:অনিবার্য
+Indulgence:প্রশ্রয়
+Indulge:আনুকূল্য করা
+Indispensable:অপরিহার্য
+Indemnified:ক্ষতিপূরণ
+Indeed:প্রকৃতপক্ষে
+Incubators:অণ্ডস্ফুটন যন্ত্র
+Incubator:অণ্ডস্ফুটন যন্ত্র
+Incontrovertible:তর্কাতীত
+Incognito:ছদ্মবেশী
+Inclined:আনত
+Inadvertenly Done:অজ্ঞানকৃত
+Imprinted:অঙ্কিত
+Implies:বোঝা
+Implied:ঊহ্য
+Impetuous:বেগবান
+Impersonate:মূর্ত করা
+Impediment:অন্তরায়
+Impasse:কানাগলি
+Impartial:নিরপেক্ষ
+Immaculate:অকলঙ্ক
+Imbibe:হজম করা
+Imagery:চিত্রাবলী
+Illiad:ইলিয়াদ ''
+Idyllic:সরল শান্ত ত্ত মনোরম
+Iconic:প্রতিমাসংক্রান্ত
+Hysterical:হিস্টিরিয়া-গ্রস্ত
+Hypothesis:অনুমান
+Hypotheses:অনুমানের
+Hypnosis:সম্মোহন
+Hustle:তাড়াহুড়া করা
+Hurdle:আগল
+Humour:মেজাজ
+Humor:ধাত
+Humiliated:অপদস্থ
+Humanitarian:মানবিক
+Huddle:গাদাগাদি করা
+Hostility:শত্রুতা
+Hostile:প্রতিকূল
+Hortatory:শীতল হাসল রানা
+Horrendous:ভয়ঙ্কর
+Hop:খোঁড়ান
+Hook:হুক
+Homestead:ভিটেমাটি
+Hoc:হক
+Hinder:পশ্চাদ্বর্তী
+Hiker:নাগরিক
+Hedonist:আনন্দবাদী দার্শনিক
+Hedge:প্রতিবন্ধক
+Hectic:অস্থির
+Healing:আরোগ্য
+Head Over Heels:হিল ওভার হেড
+Haunted:ভুতুড়ে
+Hatred:ঘৃণা
+Harvesting:ফসল
+Harvest:ফসল
+Harsh:কঠোর
+Harness:জোতা
+Harmonization:সমন্বয়
+Hallowed:পবিত্র
+Habitat:আবাস
+Gyms:শিক্ষক
+Guts:সাহস
+Gum:আঠা
+Greed:ক্ষুধা
+Gravitate:ঝুঁকিয়ে পড়া
+Gratify:চরিতার্থ করা
+Grasp:উপলব্ধি
+Granularity:গ্র্যানুল্যারিটি
+Granular:ঝুরা
+Grammy:গ্র্যামি
+Gouging:উপড়াইয়া ফেলা
+Gorges:ঘাট
+Glossy:চকচকে
+Gloomy:মনমরা
+Gloomed:বিষণ্ণ হত্তয়া
+Gloom:বিষাদ
+Glimpses:ঝলক
+Gimmick:প্রতারণাপূর্ণ কৌশল
+Ghastly:বিবর্ণ
+Get Off The Ground:স্থল নামবো
+Get Off:অবতরণ করা
+Gesture:অঙ্গভঙ্গি
+General:সাধারণ
+Garish:জাঁকাল
+Gambling:জুয়া
+Gambier:গ্যাম্বিয়ার
+Fusing:দ্রব করা
+Fungible:এও মনে করছে
+Frightening:ভয়ানক
+Frantically:ক্ষিপ্তবৎ
+Founder:প্রতিষ্ঠাতা
+Foster:লালনপালন করা
+Fossils:জীবাশ্ম
+Fossil:জীবাশ্ম
+Fort:দুর্গ
+Formulated:প্রণয়ন
+Forging:কামারশালা
+Foreseeable:সুদুর
+Forensic:আদালতসম্বন্ধীয়
+Forefront:একেবারে পুরোভাগ
+Forefather:পূর্বপুরুষ
+Forecasting:পূর্বাভাস
+Forecast:পূর্বাভাস
+Fop:খাঁজাখাঁ
+Foamy:ফেনিল
+Florist:মালী
+Flooded:প্লাবিত
+Flood:বন্যা
+Flock:পাল
+Fleshed:মাংস
+Fledged:পালকযুক্ত
+Fledge:পালকযুক্ত করা
+Flatting:চ্যাপ্টা
+Flap:পক্ষবিধুনন
+Filed:দায়ের
+Fiddle:বেহালা
+Fibre:তন্তু
+Feud:জাতিবৈর
+Fellows:ফেলোগণ
+Fellow:সহকর্মী
+Felling:ভোজন
+Felicitous:মনোরম
+Fatigue:অবসাদ
+Fatalism:অদৃষ্টবাদ
+Farmland:কৃষিজমি
+Fancy:অভিনব
+Fanaticism:ধর্মান্ধতা
+Fame:খ্যাতি
+Extrovert:বহির্মুখ
+Extract:নির্যাস
+Extinct:লুপ্ত
+Express:প্রকাশ করা
+Expedite:সুবিধাযুক্ত
+Exhilarating:উল্লাসজনক
+Exhibit:প্রদর্শক
+Exhaust:এক্সস্ট
+Exegesis:বাইবেলের সমালোচনা ও ভাষ্য
+Excel At:এ এক্সেল
+Excel:সীমা অতিক্রম করা
+Exaggerate:ফলান
+Evolves:উন্নতির
+Evolve:গজান
+Evince:স্পষ্ট প্রদর্শন করা
+Eventful:ঘটনাবহুল
+Ethnic:জাতিগত
+Eternal:অনন্ত
+Epicurean:প্রমোদপ্রি়
+Envy:হিংসা
+Enucleate:ব্যাখ্যা করা
+Entwined:পাকান
+Enthusiasm:উদ্যম
+Enormous:প্রচুর
+Engrossed:নিরত
+Endorse:অনুমোদন করা
+Encyclopedia:বিশ্বকোষ
+Encompass:পরিবেষ্টন করা
+Emphatically:সজোরে
+Emperor:সম্রাট
+Emolument:পরিভৃতি
+Emerging:উদীয়মান
+Emerge:নিষ্ক্রমণ করা
+Embrace:আলিঙ্গন
+Embezzle:আত্মসাৎ করা
+Embark:পোতারূঢ করা
+Elysian:দিব্যধামসংক্রান্ত
+Elegance:কমনীয়তা
+Electronically:বৈদ্যুতিন
+Ears:কান
+Eager:আগ্রহী
+Dwelling:বাস
+Dumping:ডাম্পিং
+Dubbed:ডাব
+Drowned:ডুবা
+Drought:খরা
+Drift Apart:সরাইয়া প্রপাত
+Drift:প্রবাহ
+Drenched:প্লাবিত
+Drench:নিষিক্ত করা
+Dreary:বিষণ্ণ
+Dragon:ঘুড়ি বিশেষ
+Doldrums:মনমরা ভাব
+Documentary:তথ্যচিত্র
+Documentaries:ডকুমেন্টারি
+Divulge:ফাঁস করা
+Diving:ডাইভিং
+Diversity:বৈচিত্র্য
+Distill:চোলাই করা
+Disruption:ভাঙ্গন
+Discrimination:বৈষম্য
+Discriminate:পক্ষপাতমূলক
+Disclaimer:দাবি পরিত্যাগী
+Disclaimed:অস্বীকার
+Disclaim:দাবি পরিত্যাগ করা
+Discern:ঠাহর করা
+Dire:ভয়ানক
+Diligent:পরিশ্রমী
+Diligence:অধ্যবসায়
+Dilemma:উভয়সঙ্কট
+Dildo:খেলনা
+Dig:খনন করা
+Dictate:নির্দেশ
+Dice:পাশা
+Devastating:বিধ্বংসী
+Detrimental:ক্ষতিকর
+Destitude:নিঃস্ব
+Destined:পূর্বনির্দিষ্ট
+Desperateness:রুচি
+Desperate:মরিয়া
+Derivatives:ডেরিভেটিভস
+Deprived:বঞ্চিত
+Depicts:রচিত
+Depict:বর্ণা করা
+Dents:গর্ত
+Dent:গর্ত
+Denomination:সম্প্রদায়
+Deliriously:উন্মত্ত হয়ে জয়
+Deflected:বিনিময় করা
+Deficit:ঘাটতি
+Deed:দলিল
+Decomposition:পচানি
+Decompensation:ডেকোম্পেন্সেস্ন
+Decline:পতন
+Decisive:নিষ্পত্তিমূলক
+Decency:উপযুক্ততা
+Decay:ক্ষয়
+Decant:একত্র মিশ্রিত করা
+Debris:ধ্বংসাবশেষ
+Deaf:বধির
+Deadly:মারাত্মক
+Dated:অপ্রচলিত
+Dash:হানাহানি
+Daresay:অনুমান করা
+Damned:জঘন্য
+Dabble:সিক্ত করা
+Cuts:কাট
+Curtain:পরদা
+Culinary:রন্ধনসম্পর্কীয়
+Cuisine:রন্ধনপ্রণালী
+Cues:ক্লু
+Crunching:ক্রান্চিং
+Crumble:টুকরা টুকরা করা
+Crucial:অত্যন্ত গুরুত্বপূর্ণ
+Crops:ফসল
+Crooked:কুটিল
+Criticism:সমালোচনা
+Critic:সমালোচক
+Creatures:প্রাণী
+Crave:প্রার্থনা করা
+Crater:গর্ত
+Cramped:আবদ্ধ
+Cozy:আরামদায়ক
+Covert:গুপ্ত
+Covariance:কোভ্যারিয়েন্স
+Coup:ঘা
+Costumes:পরিধানসমূহ
+Cosmopolitan:বিশ্বজনীন
+Correspondent:সংবাদদাতা
+Corpus:দেহ
+Corpse:শব
+Cope With:সঙ্গে মানিয়ে
+Conversely:বিপরীতক্রমে
+Convenient:সুবিধাজনক
+Contrasts:বৈপরীত্য
+Contrast:বিপরীত হত্তয়া
+Contiguous:সংলগ্ন
+Context:প্রসঙ্গ
+Contemplating:গভীরভাবে চিন্তা
+Contaminated:কলুষিত
+Contact:যোগাযোগ
+Constructive:গঠনমূলক
+Constitute:গঠন করা
+Consistent:সঙ্গত
+Considerate:সহানুভূতিশীল
+Consensus:ঐক্য
+Congestions:পূর্ণতা
+Congestion:পূর্ণতা
+Congeal:জমাট বাঁধা
+Conflated:মিশিয়ে ফেলেছিলেন
+Confined:সীমাবদ্ধ
+Confess:স্বীকার করা
+Conductor:কন্ডাকটর
+Conceive:কল্পনা করা
+Conceivably:বোধগম্যভাবে
+Comprised:অন্তর্ভুক্ত
+Comprehensive:ব্যাপক
+Composition:গঠন
+Composed:স্থিরীকৃত
+Complexion:রুপ
+Complementary:পরিপূরক
+Compensation:ক্ষতিপূরণ
+Compelled:বাধ্য
+Compassion:সমবেদনা
+Commuting:বিনিময় করা
+Commodity:পণ্য
+Collaboration:সহযোগিতা
+Collaborate:সহযোগিতা করা
+Colander:ঝাঁজর
+Coincidence:সমাপতন
+Cohesive:সংযোজক
+Cognitive:জ্ঞানীয়
+Cognition:চেতনা
+Cognation:সমোদ্ভবতা
+Coercion:বলপ্রয়োগ
+Coast:উপকূল
+Clique:উপদল
+Cliff:খাড়া বাঁধ
+Cliche:পদসমষ্টি
+Cleft:চিড়
+Clashes:সংঘর্ষ
+Clarinet:সানাই
+Clad:পরিহিত
+Cited:উদাহৃত
+Chores:টুকিটাকি
+Choleric:দজ্জাল
+Chivalrous:সাহসী
+Chew:চর্বণ
+Chest:বুক
+Chess:দাবা
+Charity:দানশীলতা
+Charcoal:কাঠকয়লা
+Chalice:পাত্র
+Chagrin:বিরক্তি
+Cereal:খাদ্যশস্য
+Ceramics:মৃত্শিল্প
+Ceramic:সিরামিক
+Censure:অনুযোগ
+Censorious:ছিদ্রান্বেষী
+Censored:সেন্সর
+Censor:সমালোচক
+Censer:ধুনুচি
+Cease:ক্ষান্তি
+Catwalk:ক্যাটওয়াক
+Cattle:গবাদি পশু
+Cater:খাদ্যাদি পরিবেশন করা
+Castigation:কঠোর ভর্ত্সনা
+Cast:নিক্ষেপ
+Cascade:নির্ঝর
+Cardiograms:হৃত্স্পন্দনের চিত্র
+Carafe:জার
+Capricious:খামখেয়ালী
+Canvases:ক্যানভাস
+Canoeing:শাল্তি বাহিয়া যাত্তয়া
+Canoe:শাল্তি
+Calm:শান্ত
+Calligraphy:লিপিবিদ্যা
+Bylaws:উপ
+Butterfly:প্রজাপতি
+Bustle:ছুটাছুটি
+Bust:বক্ষ
+Buried:প্রোথিত
+Bugaboo:জুজুবুড়ি
+Bruise:কালশিটে
+Brotherhood:ভ্রাতৃত্ব
+Brochures:পুস্তিকা
+Broadsheet:ব্রডশিট
+Brisk:প্রাণবন্ত
+Breathed:নিঃশ্বাস
+Breaching:ফাটল
+Breached:লঙ্ঘন
+Brag:জাঁক
+Bourgeois:সংরক্ষণশীল
+Bouquet:ফুলের তোড়া
+Bottlenecks:কৃষি
+Bottleneck:বোতলের গলা
+Boisterous:ভীম
+Blondine:স্বর্ণকেশী
+Bliss:সুখ
+Blazing:গন্গনে
+Blanket:কম্বল
+Bistre:বিস্টার
+Bias:পক্ষপাত
+Besmirch:কলঙ্কিত করা
+Bent:নমিত
+Beige:ধূসরবর্ণ পশমি বস্ত্রবিশেষ
+Bedrock:মাটি ইত্যাদি কোমল স্তরের নিম্নবর্ত্তী শক্ত নিরেট প্রস্তর
+Beckons:ইশারা করা
+Bastion:বুরূজ
+Barrier:বাধা
+Balk:কড়িকাঠ
+Backhauls:ব্যাকহলস
+Backhauled:টিই
+Axioms:উপপাদ্য
+Autumn:শরৎ
+Autonomous:স্বশাসিত
+Autistic:প্রতিবন্ধী
+Austere:উগ্র
+Auspicious:সুপ্রসন্ন
+Aunt:চাচী
+Auction:নিলাম
+Assessors:পরামর্শদাতা
+Aspiration:শ্বাসাঘাত
+Artefacts:শিল্পকর্ম
+Artefact:হস্তনির্মিত বস্তু
+Arid:অনুর্বর
+Ardor:ব্যগ্রতা
+Arcana:গুপ্ত কথা
+Arbitrary:অবাধ
+Applauded:প্রশংসিত
+Appetite:ক্ষুধা
+Aphrodisiac:কামোদ্দীপক
+Answers:উত্তর
+Anointed:উদ্বর্তিত
+Anathema:অভিশাপ
+Ameliorate:উন্নয়নসাধন করা
+Ambience:বাতাবরণ
+Ambiance:আবহ
+Alpine:অত্যুচ্চ
+Alleyways:গলি
+Allay:কমান
+Airborne:বায়ুবাহিত
+Ailments:অসুখ
+Aid:চিকিত্সা
+Agony:নিদারূণ যন্ত্রণা
+Aggregating:সমষ্টি
+Aggregate:থোক
+Aforementioned:উপরোক্ত
+Affluent:সমৃদ্ধিশালী
+Affliction:দু: খ
+Afficionado:ভক্ত
+Aerobics:এরোবিকস
+Aerobic:বায়ুজীবী
+Aerial:খেচর
+Adversity:বিদ্বেষ
+Adverse:প্রতিকূল
+Adoring:সপ্রেম
+Adore:পূজা করা
+Adoration:ভজন
+Admired:প্রশংসিত
+Admire:তারিফ করা
+Adaptation:অভিযোজন
+Adapt:খাপ খাওয়ানো
+Adapatation:অভিযোজন
+Actionable:অভিযোগ্য
+Acquit:নির্দোষ প্রমাণ করা
+Acquaintances:পরিচিতদের
+Accused:অভিযুক্ত
+Accumulate:স্তূপাকার করা
+Accord:সঙ্গতি
+Abuse:অপব্যবহার
+Abstraction:বিমূর্তন
+Abstracting:সংক্ষেপ
+Abstract:বিমূর্ত
+Abounds:চারিদিকে ছড়িয়ে আছে
+Abet:পোষকতা করা
