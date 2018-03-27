@@ -11,7 +11,7 @@ def split_list(a_list, part_by):
     s_list = []
     p_list = []
     for item in a_list:
-        p_list.append(item.replace(':', ': '))
+        p_list.append(item)
         if len(p_list) == part_by:
             s_list.append(p_list)
             p_list = []
